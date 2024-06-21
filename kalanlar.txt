@@ -1,0 +1,12 @@
+Brynn                    Thomas                   Kimya Müh               75.2                     Kaldi
+James                    Harper                   Bilgisayar Müh          75.8                     Kaldi
+William                  Hussain                  Fizik Müh               69.0                     Kaldi
+Richard                  Jeff                     Matematik                61.2                     Kaldi
+Martin                   Hank                     Bilgisayar Müh          79.3                     Kaldi
+Kenneth                  Rogers                   Fizik                    59.7                     Kaldi
+Tim                      Jack                     Matematik Müh           72.1                     Kaldi
+Edward Frankie           Adams                    Fizik                    86.8                     Kaldi
+Jo                       Khan                     Matematik Müh           47.8                     Kaldi
+Amalia                   Atkinson                 Fizik Müh               70.8                     Kaldi
+Marley Sienna            Robertson                Bilgisayar Müh          87.3                     Kaldi
+Taylor                   Evans                    Kimya Müh               72.9                     Kaldi
